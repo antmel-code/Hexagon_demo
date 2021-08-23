@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3490e2995289544419dd2458a3a84891, type: 3}
+  m_Name: PlateauHex
+  m_EditorClassIdentifier: 
+  terrainType: 4
+  features:
+  - {fileID: 919132149155446097, guid: 1171411ad3342824581fd4d76668cefd, type: 3}
+  - {fileID: 919132149155446097, guid: fcd3d4a9101f7684aa8dc320478dcec5, type: 3}
+  - {fileID: 919132149155446097, guid: 1a99e4e55f718c44ea40798d8728342d, type: 3}
+  resources: 02000000
+  waterType: 0
